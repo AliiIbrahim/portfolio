@@ -61,7 +61,7 @@ const Grid = () => {
 							Redefining what’s possible
 						</div>
 						<div>Development with you in mind</div>
-						<div>Let’s not state the obvious, we ROCK</div>
+						<div>Let's not state the obvious, we ROCK</div>
 					</GridItem>
 					<GridItem className="relative overflow-hidden grow">
 						<div className="absolute top-0">
@@ -201,7 +201,7 @@ const Grid = () => {
 									href="https://dannysvintagewatches.com"
 									target="_blank">
 									<Image
-										className="w-full rounded-2xl h-[200px]"
+										className="w-full rounded-2xl h-[200px] object-cover"
 										src="/danny.png"
 										width={500}
 										height={300}

@@ -4,7 +4,9 @@ const Header = () => {
 			<div className="text-2xl uppercase font-thin">
 				Ali <span className="font-bold">Ibrahim</span>
 			</div>
-			<div>Portfolio specific to Blackbox AI</div>
+			<div>
+				Very own <strong>2024</strong> portfolio
+			</div>
 		</div>
 	)
 }
